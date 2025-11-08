@@ -6,7 +6,8 @@
 
 ## High-level architecture
 
-_image of system architecture diagram: frontend ↔ API gateway ↔ services ↔ database & third-party providers_
+<img width="300" height="799" alt="api services - GroupWallet" src="https://github.com/user-attachments/assets/4ae854cc-052a-46e9-ad75-c2c576a4165f" />
+
 
 1. **Client (Mobile / Web)**
 
@@ -51,6 +52,10 @@ _image of system architecture diagram: frontend ↔ API gateway ↔ services ↔
 5. On successful callback: Backend marks transaction complete, updates ledger.
 6. If it's a withdrawal request: Approval Engine checks group votes; if >=51% approval, Payment Service initiates payout.
 7. For loans: if repayment due date passes and unpaid, Notification Service triggers escalation workflow (email → SMS → WhatsApp → Call) using queued jobs.
+
+
+<img width="400" height="1536" alt="image" src="https://github.com/user-attachments/assets/baa284e3-71d9-410e-b363-2a37697af972" />
+
 
 ---
 
