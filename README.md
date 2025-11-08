@@ -1,5 +1,5 @@
 # GroupWallet
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8eb91cb5-217d-4ffa-a810-7642b902d466" />
+<img width="1536" height="1024" alt="image" width="320px" src="https://github.com/user-attachments/assets/8eb91cb5-217d-4ffa-a810-7642b902d466" />
 
 
 **Tagline:** Where shared money becomes simple.
@@ -41,5 +41,5 @@ Shared finances cause conflicts and erode trust when tracking is manual and opaq
 
 ## Contact / Maintainers
 - Product lead: Benita (PM)  
-- Repo: *link to public GitHub repo*
+- Repo: https://bit.ly/groupwallet-repo
 
