@@ -1,5 +1,5 @@
 # GroupWallet
-![Uploading image.png…]()
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8eb91cb5-217d-4ffa-a810-7642b902d466" />
 
 
 **Tagline:** Where shared money becomes simple.
@@ -17,7 +17,8 @@ Shared finances cause conflicts and erode trust when tracking is manual and opaq
 - Small community groups, cooperatives, and informal savings circles
 
 ## Key features
-- Group wallets with role-based members (treasurer, member)  
+- Group wallets with role-based members (treasurer, member)
+- Bulk deposit alerts get sent to all group members whenever someone contributes to the group wallet
 - Real-time contribution tracking: see who has/hasn't paid  
 - Expense logging with photo receipts and comments  
 - 51% approval required for withdrawals (prevents unilateral spending)  
