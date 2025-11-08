@@ -6,7 +6,8 @@
 
 ## High-level architecture
 
-<img width="300" height="799" alt="api services - GroupWallet" src="https://github.com/user-attachments/assets/4ae854cc-052a-46e9-ad75-c2c576a4165f" />
+<img width="355" height="1536" alt="image" src="https://github.com/user-attachments/assets/1813d3ea-fd37-43f6-945e-43467a7513fe" />
+
 
 
 1. **Client (Mobile / Web)**
@@ -55,6 +56,9 @@
 
 
 <img width="400" height="1536" alt="image" src="https://github.com/user-attachments/assets/baa284e3-71d9-410e-b363-2a37697af972" />
+
+![WhatsApp Image 2025-11-08 at 22 28 33_c276fc35](https://github.com/user-attachments/assets/0e4cd777-3fc1-41dc-9557-5da4f90ca6ee)
+
 
 
 ---
