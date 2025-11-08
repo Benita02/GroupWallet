@@ -1,5 +1,5 @@
 # GroupWallet
-<img width="1536" height="1024" alt="image" width="180px" src="https://github.com/user-attachments/assets/8eb91cb5-217d-4ffa-a810-7642b902d466" />
+<img width="400" height="1024" alt="image" src="https://github.com/user-attachments/assets/8eb91cb5-217d-4ffa-a810-7642b902d466" />
 
 
 **Tagline:** Where shared money becomes simple.
